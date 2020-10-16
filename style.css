@@ -3,7 +3,6 @@
   padding: 0 63% 100px 0;
   background: top right no-repeat url(img/Frameimg.svg);
 }
-=======
 .main__title {
   margin: 0 0 40px 0;
   font: bold 50px/65px pt_serifregular, arial, helvetica, sans-serif;
@@ -13,12 +12,9 @@
   margin: 0 0 41px 0;
   font: 18px/21px Roboto, arial, helvetica, sans-serif;
 }
-<<<<<<< HEAD
 .main__title-text_highlight {
   background: #ECF3FF;
 }
-=======
->>>>>>> e2f2b9585b285c8c37cfa29031710699a96ac240
 .main__button {
   display: inline-block;
   font: 14px/16px Roboto, arial, helvetica, sans-serif;
@@ -27,22 +23,11 @@
   padding: 14px 16px;
   text-decoration: none;
   border-radius: 4px;
-<<<<<<< HEAD
   transition: opacity .5s;
-=======
-  transition: .5s;
->>>>>>> e2f2b9585b285c8c37cfa29031710699a96ac240
 }
 .main__button:hover {
   opacity: .5;
 }
-<<<<<<< HEAD
-=======
-.main {
-  padding-right: 0 63% 100px 0;
-  background: top right no-repeat url(img/frameimg.svg);
-}
->>>>>>> e2f2b9585b285c8c37cfa29031710699a96ac240
 .body {
   margin: 0;
 }
